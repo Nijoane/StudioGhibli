@@ -1,1 +1,1 @@
-#Studio Ghibli
+# Studio Ghibli
