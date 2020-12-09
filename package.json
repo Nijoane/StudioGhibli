@@ -1,0 +1,12 @@
+{
+  "name": "studioghibli",
+  "version": "1.0.0",
+  "description": "projeto de portifólio",
+  "main": "index.js",
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "start": "node src/"
+    
+  }
+}
