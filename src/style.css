@@ -62,7 +62,7 @@ main{
 
 .about{
   width: 85%;
-  height: 80%;
+  height: 85%;
   padding: 15px;
 
   font-size: 15px;
@@ -77,17 +77,27 @@ main{
 .info-movie{
   margin-top: 20px;
 
-  font-size: 18px;
+  font-size: 14px;
   text-align: center;
 
   color: #716844;
   background-color: #B0F399;
 }
 
-.card-image{
+.container-image{
   position: absolute;
+
+  padding-right: 28px;
+  padding-top: 252px;
+
+  align-self: flex-end;
+
+  background: none;
+}
+
+.card-image{
   width: 125px;
   height: 62px;
-  
+
   background: url(images.png);
 }
