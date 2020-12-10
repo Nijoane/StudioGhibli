@@ -6,7 +6,7 @@
   "repository": "",
   "license": "MIT",
   "dependencies": {
-    "start": "node src/"
+    "start": "src/index.html"
     
   }
 }
