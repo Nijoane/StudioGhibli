@@ -13,7 +13,7 @@ const fetchGhibli = () => {
       title: result.title,
       director: result.director,
       release_date: result.release_date,
-      description: result.description.substring(0, 450),
+      description: result.description.substring(0, 400),
     }));
     showMovie(movie);
   });
@@ -26,7 +26,9 @@ const showMovie = (movie) => {
     `<li class="card">
       <span class='title'>${movies.title}</span>
       <p class="about">${movies.description}...</p>
-      <img src="images/images.png" class="card-image" alt="totoro-image">
+      <div class="container-image">
+        <img src="images/images.png" class="card-image" alt="totoro-image">
+      </div>
       <span class="info-movie">Director: ${movies.director} - Year ${movies.release_date}</span>
     </li>
     `
