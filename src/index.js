@@ -1,5 +1,4 @@
 const elementCard = document.getElementById('container-card');
-const allMovies = 18;
 
 const fetchGhibli = () => {
   const baseURL = `https://ghibliapi.herokuapp.com/Films/`;
@@ -21,7 +20,6 @@ const fetchGhibli = () => {
 fetchGhibli();
 
 const showMovie = (movie) => {
-  console.log(movie)
   const createMovie = movie.map((movies) => 
     `<li class="card">
       <span class='title'>${movies.title}</span>
