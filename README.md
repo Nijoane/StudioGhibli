@@ -1,5 +1,7 @@
 # Studio Ghibli :izakaya_lantern:
 
+Para visualizar o projeto clique [aqui](https://nijoane.github.io/StudioGhibli/)
+
 ## About the Project
 
 _Criei esse pequeno projeto __apenas__ para estudo, optei por  ultilizar a API do Studio Ghibli por ser pequena já que meu objetivo era somente entender melhor as chamadas de dados da API e métodos de array.</br>
@@ -16,11 +18,11 @@ _Me preocupei em criar um protótipo do projeto, para conseguir visualizar melho
 
 <img src="src/images/Prototipo.png">
 
->Protótipo criado utilizando [Figma]("https://www.figma.com/file/6bHylclCuuI9gi0NVphbqj/Studio-Ghibli?node-id=0%3A1").
+>Protótipo criado utilizando [Figma](https://www.figma.com/file/6bHylclCuuI9gi0NVphbqj/Studio-Ghibli?node-id=0%3A1).
 
 
 #### Developed by:
-[Nicaely Joane]("https://github.com/Nijoane")
+[Nicaely Joane](https://github.com/Nijoane)
 
 ___
 Thank you! :smile:
