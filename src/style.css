@@ -36,7 +36,7 @@ main{
 
 .card{
   width: 25vw;
-  height: 70Vh;
+  height: 65Vh;
 
   margin: 15px;
   padding: 15px;
@@ -62,7 +62,7 @@ main{
 
 .about{
   width: 85%;
-  height: 85%;
+  height: 80%;
   padding: 15px;
 
   font-size: 15px;
@@ -88,10 +88,9 @@ main{
   position: absolute;
 
   padding-right: 28px;
-  padding-top: 252px;
+  padding-top: 240px;
 
   align-self: flex-end;
-
   background: none;
 }
 
